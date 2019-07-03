@@ -1,0 +1,16 @@
+images1,images2,FID,amount_images,time,comment,Name
+source_landscape128,artDCGAN_landscape128,134.74667,1024,117.896456,Normal Art-DCGAN, Landscape Art-DCGAN
+source_portrait128,artDCGAN_portrait128,133.7595,1024,114.940349,Normal Art-DCGAN, Portrait Art-DCGAN
+source_nudeportrait128,artDCGAN_nudeportrait128,167.63837,1024,126.322527,Normal Art-DCGAN, Nude Portrait Art-DCGAN
+source_landscape128,noise128,423.57306,3162,230.036537,Noise compared to landscape, Noise vs Landscape
+source_portrait128,noise128,459.28424,3064,235.178896,Noise compared to portrait, Noise vs Portrait
+source_nudeportrait128,noise128,491.06567,3033,233.117534,Noise compared to nude portrait, Noise vs Nude Portrait
+source_landscape64,landscapeGANGogh,184.97502,768,107.710434,Landscape compared to own trained, Landscape GANGogh
+source_landscape64,noise64,437.08566,11218,424.221316,Small landscape compared to noise, Noise vs Landscape small
+ source_landscape128,landscapeGANGogh_scaled128,232.7404,768,131.614078,Larger landscape compared to upscaled GANGogh, Landscape GANGogh upscaled
+source_landscape64,artDCGAN_landscape128_scaled64,61.031754,1024,119.485353,Small landscaped compared to downscaled Art-DCGAN, Landscape Art-DCGAN downscaled
+source_landscape128_scaled32,artDCGAN_landscape128_scaled32,79.60612,1024,117.110968,Smaller rescaled landscape compared to rescaled Art-DCGAN, Landscape Art-DCGAN downscaled small
+source_landscape128_scaled64,artDCGAN_landscape128_scaled64,75.05792,1024,117.648679,Medium scaled landscape compared to scaled Art-DCGAN, Landscape Art-DCGAN downscaled
+source_landscape128_scaled64,landscapeGANGogh_scaled,186.45053,768,120.625967,Medium scaled landscape compared to normal GANGogh,Landscape GANGogh downscaled
+source_landscape128_scaled32,landscapeGANGogh_scaled32,109.41017,768,120.758813,Smaller rescaled landscape compared to scaled GANGogh,Landscape GANGogh downscaled small
+source_celebA_scaled64,DCGAN_celebA,100.46742,6656,329.229908,DCGAN celebA comparison,CelebA

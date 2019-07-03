@@ -1,0 +1,91 @@
+
+('../data_to_score/source_landscape128', '../data_to_score/artDCGAN_landscape128')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 117.896456 s
+FID: 134.74667
+ -- 
+ 
+('../data_to_score/source_portrait128', '../data_to_score/artDCGAN_portrait128')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 114.940349 s
+FID: 133.7595
+ -- 
+ 
+('../data_to_score/source_nudeportrait128', '../data_to_score/artDCGAN_nudeportrait128')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 126.322527 s
+FID: 167.63837
+ -- 
+ 
+('../data_to_score/source_landscape128', '../data_to_score/noise128')
+Calculating FID with 3162 images from each distribution
+FID calculation time: 230.036537 s
+FID: 423.57306
+ -- 
+ 
+('../data_to_score/source_portrait128', '../data_to_score/noise128')
+Calculating FID with 3064 images from each distribution
+FID calculation time: 235.178896 s
+FID: 459.28424
+ -- 
+ 
+('../data_to_score/source_nudeportrait128', '../data_to_score/noise128')
+Calculating FID with 3033 images from each distribution
+FID calculation time: 233.117534 s
+FID: 491.06567
+ -- 
+ 
+('../data_to_score/source_landscape64', '../data_to_score/landscapeGANGogh')
+Calculating FID with 768 images from each distribution
+FID calculation time: 107.710434 s
+FID: 184.97502
+ -- 
+ 
+('../data_to_score/source_landscape64', '../data_to_score/noise64')
+Calculating FID with 11218 images from each distribution
+FID calculation time: 424.221316 s
+FID: 437.08566
+ -- 
+ 
+ 
+('../data_to_score/source_landscape128', '../data_to_score/landscapeGANGogh_scaled128')
+Calculating FID with 768 images from each distribution
+FID calculation time: 131.614078 s
+FID: 232.7404
+ -- 
+ 
+('../data_to_score/source_landscape64', '../data_to_score/artDCGAN_landscape128_scaled64')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 119.485353 s
+FID: 61.031754
+ -- 
+ 
+('../data_to_score/source_landscape128_scaled32', '../data_to_score/artDCGAN_landscape128_scaled32')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 117.110968 s
+FID: 79.60612
+ -- 
+
+('../data_to_score/source_landscape128_scaled64', '../data_to_score/artDCGAN_landscape128_scaled64')
+Calculating FID with 1024 images from each distribution
+FID calculation time: 117.648679 s
+FID: 75.05792
+ -- 
+ 
+('../data_to_score/source_landscape128_scaled64', '../data_to_score/landscapeGANGogh')
+Calculating FID with 768 images from each distribution
+FID calculation time: 120.625967 s
+FID: 186.45053
+ -- 
+ 
+ ('../data_to_score/source_landscape128_scaled32', '../data_to_score/landscapeGANGogh_scaled32')
+Calculating FID with 768 images from each distribution
+FID calculation time: 120.758813 s
+FID: 109.41017
+ -- 
+
+('../data_to_score/source_celebA_scaled64', '../data_to_score/DCGAN_celebA')
+Calculating FID with 6656 images from each distribution
+FID calculation time: 329.229908 s
+FID: 100.46742
+ -- 

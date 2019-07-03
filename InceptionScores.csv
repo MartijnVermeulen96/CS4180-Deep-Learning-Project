@@ -1,0 +1,24 @@
+Dataset,Inception,Std,Name
+source_celebA,3.8423252, 0.1165736, CelebA
+artDCGAN_portrait128,3.1664667, 0.28861612, Art-DCGAN portrait
+noise64,1.0988984, 0.0035116186, Noise 64
+artDCGAN_nudeportrait128_scaled64,4.149658, 0.30474305, Art-DCGAN nude portrait downscaled
+source_landscape128,3.8488636, 0.15314613, Source Landscape
+artDCGAN_portrait128_scaled64,3.5496755, 0.21673256, Art-DCGAN portrait downscaled
+source_landscape128_scaled64,3.8234296, 0.23985933, Source Landscape downscaled
+landscapeGANGogh,2.4535227, 0.15228619, Landscape GANGogh
+artDCGAN_nudeportrait128,3.8906925, 0.37686175, Art-DCGAN nude portrait
+noise128,1.0879244, 0.0012194366, Noise 128
+source_landscape128_scaled32,3.477707, 0.13745134, Source Landscape downscaled 2x
+source_landscape64,4.854462, 0.09549643, Source Landscape small
+source_portrait128,4.2285333, 0.19791368, Source Portrait
+artDCGAN_landscape128_scaled64,3.9322937, 0.17959179, Art-DCGAN landscape downscaled
+landscapeGANGogh_scaled128,2.388645, 0.1225642, Landscape GANGogh upscaled
+WGAN-GP_highdim, 1.0856012, 0.0104307225, WGAN-GP collapsed
+landscapeGANGogh_scaled32,2.9641025, 0.17274365, Landscape GANGogh downscaled
+source_celebA_scaled64,2.9762135, 0.05283318, Source CelebA
+DCGAN_celebA,2.2023766, 0.030099742, DCGAN CelebA
+artDCGAN_landscape128_scaled32,3.4998581, 0.21547426, Art-DCGAN landscape downscaled 2x
+WGAN-GP_brownart,1.2153931, 0.06912627, WGAN-GP collapsed 2
+source_nudeportrait128,5.1888285, 0.29272532, Source nude portrait
+artDCGAN_landscape128,3.296584, 0.24069574, Art-DCGAN landscape

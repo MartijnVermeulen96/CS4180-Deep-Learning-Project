@@ -1,0 +1,141 @@
+../data_to_score/mnist_png/
+ -- 
+ 
+../data_to_score/source_celebA/
+Calculating Inception Score with 10000 images in 10 splits
+Inception Score calculation time: 119.972040 s
+(3.8423252, 0.1165736)
+ -- 
+ 
+../data_to_score/artDCGAN_portrait128/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 11.168085 s
+(3.1664667, 0.28861612)
+ -- 
+ 
+../data_to_score/noise64/
+Calculating Inception Score with 9999 images in 10 splits
+Inception Score calculation time: 107.406403 s
+(1.0988984, 0.0035116186)
+ -- 
+ 
+../data_to_score/artDCGAN_nudeportrait128_scaled64/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 10.964800 s
+(4.149658, 0.30474305)
+ -- 
+ 
+../data_to_score/source_landscape128/
+Calculating Inception Score with 3162 images in 10 splits
+Inception Score calculation time: 34.216549 s
+(3.8488636, 0.15314613)
+ -- 
+ 
+../data_to_score/artDCGAN_portrait128_scaled64/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 11.014997 s
+(3.5496755, 0.21673256)
+ -- 
+ 
+../data_to_score/source_landscape128_scaled64/
+Calculating Inception Score with 3162 images in 10 splits
+Inception Score calculation time: 33.701664 s
+(3.8234296, 0.23985933)
+ -- 
+ 
+../data_to_score/landscapeGANGogh/
+Calculating Inception Score with 768 images in 10 splits
+Inception Score calculation time: 8.263573 s
+(2.4535227, 0.15228619)
+ -- 
+ 
+../data_to_score/artDCGAN_nudeportrait128/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 11.201888 s
+(3.8906925, 0.37686175)
+ -- 
+ 
+../data_to_score/noise128/
+Calculating Inception Score with 10000 images in 10 splits
+Inception Score calculation time: 108.613862 s
+(1.0879244, 0.0012194366)
+ -- 
+ 
+../data_to_score/source_landscape128_scaled32/
+Calculating Inception Score with 3162 images in 10 splits
+Inception Score calculation time: 33.715450 s
+(3.477707, 0.13745134)
+ -- 
+ 
+../data_to_score/source_landscape64/
+Calculating Inception Score with 9999 images in 10 splits
+Inception Score calculation time: 107.434785 s
+(4.854462, 0.09549643)
+ -- 
+ 
+../data_to_score/source_portrait128/
+Calculating Inception Score with 3064 images in 10 splits
+Inception Score calculation time: 33.020121 s
+(4.2285333, 0.19791368)
+ -- 
+ 
+../data_to_score/artDCGAN_landscape128_scaled64/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 10.981993 s
+(3.9322937, 0.17959179)
+ -- 
+ 
+../data_to_score/landscapeGANGogh_scaled128/
+Calculating Inception Score with 768 images in 10 splits
+Inception Score calculation time: 8.362528 s
+(2.388645, 0.1225642)
+ -- 
+ 
+../data_to_score/WGAN-GP_highdim/
+Calculating Inception Score with 64 images in 10 splits
+Inception Score calculation time: 0.818775 s
+(1.0856012, 0.0104307225)
+ -- 
+ 
+../data_to_score/landscapeGANGogh_scaled32/
+Calculating Inception Score with 768 images in 10 splits
+Inception Score calculation time: 8.218182 s
+(2.9641025, 0.17274365)
+ -- 
+ 
+../data_to_score/source_celebA_scaled64/
+Calculating Inception Score with 10000 images in 10 splits
+Inception Score calculation time: 107.552935 s
+(2.9762135, 0.05283318)
+ -- 
+ 
+../data_to_score/DCGAN_celebA/
+Calculating Inception Score with 6656 images in 10 splits
+Inception Score calculation time: 71.545108 s
+(2.2023766, 0.030099742)
+ -- 
+ 
+../data_to_score/artDCGAN_landscape128_scaled32/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 10.931262 s
+(3.4998581, 0.21547426)
+ -- 
+ 
+../data_to_score/WGAN-GP_brownart/
+Calculating Inception Score with 64 images in 10 splits
+Inception Score calculation time: 0.818230 s
+(1.2153931, 0.06912627)
+ -- 
+ 
+../data_to_score/source_nudeportrait128/
+Calculating Inception Score with 3033 images in 10 splits
+Inception Score calculation time: 32.902818 s
+(5.1888285, 0.29272532)
+ -- 
+ 
+../data_to_score/artDCGAN_landscape128/
+Calculating Inception Score with 1024 images in 10 splits
+Inception Score calculation time: 11.148733 s
+(3.296584, 0.24069574)
+ -- 
+ 
