@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-data_to_score/
+data_to_score
 *.tar.gz
